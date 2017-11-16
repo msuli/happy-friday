@@ -1,5 +1,5 @@
 <template>
   <div>
-    score
+    scoredsfsf
   </div>
 </template>
